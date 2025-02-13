@@ -1,6 +1,6 @@
 # BlueRetroWebCfg
 BlueRetro Web-Bluetooth configuration pages
-
+(https://lemakako.github.io/BlueRetroWebCfg/)
 Those pages are base on [Google Chrome Samples](https://github.com/GoogleChrome/samples)
 
 More detail BlueRetro:\
